@@ -1,0 +1,43 @@
+ /*start about us section1 */
+ 
+
+ .achieve_section1 {
+     width: 100%;
+ }
+
+ .achieve_section1_inner {
+     /*height: 980px;*/
+     padding: 105px 175px;
+ }
+
+ .achieve_section1_inner_headding {
+     font-family: Oswald;
+     font-size: 53px;
+     font-weight: 700;
+     text-align: center;
+     color: #01456a;
+ }
+
+ .achieve_section1_inner_sub_headding {
+     font-family: Oswald;
+     font-size: 33px;
+     font-weight: 500;
+     color: #01456a;
+     padding: 35px 0px 0px;
+ }
+
+ .achieve_section1_inner_des {
+     padding: 35px 100px 0px;
+     font-family: Montserrat;
+     font-size: 21px;
+     font-weight: 500;
+     color: black;
+ }
+
+ 
+ 
+
+
+
+
+ /*end main section*/
